@@ -13,8 +13,6 @@
 
         </activity>
         <activity android:name=".EditProfile" />
-        <activity android:name=".BookingActivity" />
-        <activity android:name=".BookActivity" />
         <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
